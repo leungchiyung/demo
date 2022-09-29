@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class hehe {
     @RequestMapping("/hehe")
     public String hehe() {
-        return "heha!!!";
+        return "hehaaaa!!!";
     }
 }
